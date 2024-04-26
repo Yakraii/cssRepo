@@ -1,5 +1,5 @@
 /* index.css */
-.button {
+.klclass {
     width: 130px;
     height: 30px;
     background-color: #fa9a34;
@@ -13,10 +13,10 @@
     transition-duration: 0.4s;
 }
 
-.button:hover {
+.klclass:hover {
     background-color: #faa448;
 }
-/* .button:hover {
+/* .klclass:hover {
   background-color: #4cc9f0;
   -webkit-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
   -moz-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
