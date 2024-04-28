@@ -13,14 +13,17 @@
     transition-duration: 0.4s;
 }
 
-.klclass:hover {
+/*基础样式*/
+/* .klclass:hover {
     background-color: #faa448!important;
     color: #000!important;
     transition: all 0.3s ease 0.1s
-}
-/* .klclass:hover {
-  background-color: #4cc9f0;
-  -webkit-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
-  -moz-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
-  box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
 } */
+
+/*发光样式*/
+.klclass:hover {
+  background-color: #4cc9f0!important;
+  -webkit-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1)!important;
+  -moz-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1)!important;
+  box-shadow: 10px 10px 99px 6px rgba(76,201,240,1)!important;
+} 
