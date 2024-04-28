@@ -14,7 +14,7 @@
 }
 
 .klclass:hover {
-    background-color: #faa448;
+    background-color: #faa448!important;
 }
 /* .klclass:hover {
   background-color: #4cc9f0;
