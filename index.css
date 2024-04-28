@@ -15,6 +15,8 @@
 
 .klclass:hover {
     background-color: #faa448!important;
+    color: #000!important;
+    transition: all 0.3s ease 0.1s
 }
 /* .klclass:hover {
   background-color: #4cc9f0;
