@@ -1,0 +1,44 @@
+/* index.css */
+/*.klclass {
+    width: 130px;
+    height: 30px;
+    background-color: #fa9a34;
+    border: none;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}*/
+
+发光绿色版
+.klclass {
+    width: 130px;
+    height: 30px;
+    background-color: #158c78
+    border: none;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+/*基础样式*/
+/* .klclass:hover {
+    background-color: #faa448!important;
+    color: #000!important;
+    transition: all 0.3s ease 0.1s
+} */
+
+/*发光样式*/
+.klclass:hover {
+  background-color: #4cc9f0!important;
+  -webkit-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1)!important;
+  -moz-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1)!important;
+  box-shadow: 10px 10px 99px 6px rgba(76,201,240,1)!important;
+} 
